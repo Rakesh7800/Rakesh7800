@@ -1,13 +1,11 @@
-<h1 align="center">Hi, I'm Dokka Rakesh 👋</h1>
-<h3 align="center">AI/ML & Cyber Security Enthusiast | Generative AI • Full-Stack • IoT</h3>
+# <p align="center">Hi, I'm Dokka Rakesh 👋</p>
+### <p align="center">AI/ML & Cyber Security Enthusiast | Generative AI • Full-Stack • IoT</p>
+
+<p align="center">Building toward a career in AI-driven cyber defense — one project, one internship at a time.</p>
 
 <p align="center">
-  Building toward a career in AI-driven cyber defense — one project, one internship at a time.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dokka-rakesh-1503ts"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:dokkarakesh88@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/dokka-rakesh-1503ts"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dokkarakesh88@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -25,30 +23,23 @@
 
 ### 🛠️ Tech Stack
 
-**Languages & Core:**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+**Languages & Core**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**AI/ML & Frameworks:**
-<p>
-  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=flat-square&logo=google&logoColor=white" alt="GenAI"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-3F51B5?style=flat-square&logo=scikit-learn&logoColor=white" alt="ML"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-</p>
+**AI/ML & Frameworks**  
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-3F51B5?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 
-**Tools, Cloud & Hardware:**
-<p>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Microcontrollers-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Microcontroller"/>
-  <img src="https://img.shields.io/badge/IoT_Sensors-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="IoT"/>
-</p>
+**Tools & Hardware**  
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
@@ -65,14 +56,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh7800&show_icons=true&theme=tokyonight&hide_border=true" alt="Rakesh's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh7800&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</p>
+![Rakesh's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rakesh7800&show_icons=true&theme=dark)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh7800&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rakesh7800&layout=compact&theme=dark)
 
 ---
 
