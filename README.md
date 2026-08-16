@@ -40,6 +40,14 @@
 
 ---
 
+### 📊 GitHub Stats
+
+![Rakesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakesh7800&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh7800&layout=compact&theme=radical)
+
+---
+
 <p align="center">
   📫 <i>Open to AI, software engineering, and security-adjacent internship opportunities — let's connect!</i>
 </p>
