@@ -1,5 +1,5 @@
 # <p align="center">Hi, I'm Dokka Rakesh 👋</p>
-### <p align="center">AI/ML & Cyber Security Enthusiast | Generative AI • Full-Stack • IoT</p>
+<h3 align="center">AI/ML & Cyber Security Enthusiast | Generative AI • Full-Stack • IoT</h3>
 
 <p align="center">Building toward a career in AI-driven cyber defense — one project, one internship at a time.</p>
 
@@ -16,24 +16,25 @@
 - 💻 **AI Intern:** CodeAlpha — AI/ML algorithms & data-processing
 - 📡 **IoT Intern:** UniConverge Technologies & upSkill Campus
 - 🔒 **Focus:** Cyber Security & AI-driven threat mitigation
+- 💬 **Ask Me About:** Generative AI workflows, IoT automation, Embedded C, Python
 
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** `Python`, `C`, `HTML`, `CSS`, `Embedded C`
+- **Programming:** `Python`, `C`, `HTML`, `CSS`, `Embedded C`
 - **AI/ML:** `Generative AI`, `Machine Learning`, `Pandas`, `NumPy`
 - **Tools:** `Google Cloud (GCP)`, `Git`, `GitHub`, `IoT Sensors`
 
 ---
 
-### 🎮 GitHub Snake Animation
-![Snake animation](https://github.com/Rakesh7800/Rakesh7800/blob/output/github-contribution-grid-snake.svg)
+### 📌 Featured Projects
+- **Generative AI Pipeline:** Built automated workflows using LLM concepts.
+- **AI/ML Algorithms:** Engineered predictive models at CodeAlpha.
+- **Smart Street Light Automation:** IoT-based system for energy efficiency.
+- **Sensor-to-Cloud Telemetry:** IoT project with microcontrollers.
 
 ---
 
-### 📊 GitHub Stats
-![Rakesh's Stats](https://github-readme-stats.vercel.app/api?username=Rakesh7800&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh7800&layout=compact&theme=radical)
-
----
-<p align="center"><i>Open to opportunities — let's connect!</i></p>
+<p align="center">
+  📫 <i>Open to AI, software engineering, and security-adjacent internship opportunities — let's connect!</i>
+</p>
