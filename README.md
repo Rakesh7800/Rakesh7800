@@ -11,43 +11,29 @@
 ---
 
 ### 🧭 About Me
-- 🎓 **Education:** 3rd-year B.Tech in Electrical & Electronics Engineering, MIC College of Technology
-- 🤖 **Generative AI Virtual Intern:** Google Cloud x EduSkills (Graded 'Outstanding')
-- 💻 **AI Intern:** CodeAlpha — Built AI/ML algorithms for real data-processing tasks
-- 📡 **IoT Intern:** UniConverge Technologies & upSkill Campus (AICTE)
-- 🔒 **Core Focus:** Cyber Security & AI-driven threat mitigation
-- 🌱 **Currently Exploring:** Cloud Security, Applied Machine Learning, and LLM Pipelines
-- 💬 **Ask Me About:** Generative AI workflows, IoT automation, Embedded C, Python
+- 🎓 **Education:** 3rd-year B.Tech in Electrical & Electronics Engineering
+- 🤖 **Generative AI Virtual Intern:** Google Cloud x EduSkills
+- 💻 **AI Intern:** CodeAlpha — AI/ML algorithms & data-processing
+- 📡 **IoT Intern:** UniConverge Technologies & upSkill Campus
+- 🔒 **Focus:** Cyber Security & AI-driven threat mitigation
 
 ---
 
 ### 🛠️ Tech Stack
-
-- **Programming Languages:** `Python`, `C`, `HTML5`, `CSS3`, `Embedded C`
-- **AI & Data Science:** `Generative AI`, `Machine Learning`, `Pandas`, `NumPy`, `LLMs`
-- **Cloud & Hardware:** `Google Cloud Platform (GCP)`, `Git`, `GitHub`, `Microcontrollers`, `IoT Sensors (LDR)`
+- **Languages:** `Python`, `C`, `HTML`, `CSS`, `Embedded C`
+- **AI/ML:** `Generative AI`, `Machine Learning`, `Pandas`, `NumPy`
+- **Tools:** `Google Cloud (GCP)`, `Git`, `GitHub`, `IoT Sensors`
 
 ---
 
-### 📌 Featured Projects & Experience
-
-| Project / Role | Focus Area | Tech Stack |
-| :--- | :--- | :--- |
-| **Generative AI Virtual Internship** *(Google Cloud x EduSkills)* | Built AI data pipelines and automated workflows | Generative AI, LLMs, GCP |
-| **AI Intern @ CodeAlpha** | Developed ML algorithms for predictive data processing | Python, ML Scripting |
-| **IoT Internship** *(UniConverge x upSkill)* | Sensor-to-cloud telemetry & microcontroller logic | IoT Protocols, Microcontrollers |
-| **Smart Street Light Automation** | Smart ambient lighting system to reduce energy waste | LDR Sensors, Microcontroller |
+### 🎮 GitHub Snake Animation
+![Snake animation](https://github.com/Rakesh7800/Rakesh7800/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ### 📊 GitHub Stats
-
-![Rakesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakesh7800&show_icons=true&theme=radical)
-
+![Rakesh's Stats](https://github-readme-stats.vercel.app/api?username=Rakesh7800&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh7800&layout=compact&theme=radical)
 
 ---
-
-<p align="center">
-  📫 <i>Open to AI, software engineering, and security-adjacent internship opportunities — let's connect!</i>
-</p>
+<p align="center"><i>Open to opportunities — let's connect!</i></p>
